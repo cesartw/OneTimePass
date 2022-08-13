@@ -155,7 +155,7 @@ final public class ImportScreen extends Screen {
         File dl_dir = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
         Bundle args = new Bundle();
         args.putString(FileDialog.EXTENSION,".otpd");
-        args.putSerializable(FileDialog.START_DIRECTORY,dl_dir);
+        args.putSerializable(FileDialog.START_DIRECTORY, dl_dir);
         FileDialog dialog = new OpenFileDialog();
         dialog.setArguments(args);
         dialog.setStyle(DialogFragment.STYLE_NO_TITLE, R.style.OneTimePassTheme);

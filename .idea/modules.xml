@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OneTimePass.iml" filepath="$PROJECT_DIR$/OneTimePass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneTimePass.iml" filepath="$PROJECT_DIR$/.idea/modules/OneTimePass.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTimePass.app.unitTest.iml" />
     </modules>
   </component>
 </project>
